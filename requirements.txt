@@ -1,0 +1,9 @@
+scipy
+matplotlib
+pywavelets>=1.2
+numpy
+pyabf
+pandas
+pyside6
+torch
+reportlab
